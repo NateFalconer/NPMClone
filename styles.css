@@ -1,0 +1,189 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    height: 25px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+  
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: -20px 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  .npm-logo {
+    display: inline-block;
+    float: left;
+    height: 40px;
+    margin: 10px;
+    align-content: center;
+  }
+  
+  .bear-logo {
+    display: inline-block;
+    height: 45px;
+    margin: 5px 5px;
+    margin-left: 0;
+    float: right;
+  }
+
+  .search-bar {
+    height: 50px;
+    background-color: rgb(32, 101, 136);
+    border: 1px solid grey;
+    padding: 10px;
+  }
+
+  .search-button {
+    background-color: rgb(31, 82, 111);
+    border: 1px solid grey;
+    padding: 10px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-left: -5px;
+  }
+
+  .sign-up {
+    float: right;
+  }
+
+  .search-term {
+    float: left;
+    width: 70%;
+    position: relative;
+    background-color: rgb(31, 82, 111);
+  }
+
+  .npm-sign {
+    background-color: rgb(240, 146, 51);
+    color: white;
+    width: 110px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+
+  .header-text {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    color: white;
+    background-color: rgb(32, 101, 136);
+    background-image: url(images/city-scape.svg);
+    background-size: cover;
+  }
+
+  .header {
+    background-color: rgb(32, 101, 136);
+    color: white;
+  }
+
+  .header-all {
+    background-color: rgb(32, 101, 136);
+    color: white;
+  }
+
+  .section1-wrap {
+    color: white;
+    background-color: rgb(39, 53, 71);
+  }
+
+  .section1 {
+    width: 900px;
+    height: 350px;
+    margin: 0 auto;
+  }
+
+  .collab {
+    padding-top: 40px;
+    width: 400px;
+  }
+
+  .sec1list {
+    float: right;
+    padding-top: 40px;
+  }
+
+  .npm-features {
+    font-size: 0.9em;
+  }
+
+  .org-button {
+    background-color: rgb(203, 56, 55);
+    color: white;
+    width: 110px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+
+  .org-text {
+    text-decoration: none;
+    color: white;
+  }
+
+  .section2-wrap {
+    background-image: url(images/forklift.svg);
+    background-size: cover;
+    height: 400px;
+    position: relative;
+  }
+
+  .install-button {
+    background-color: rgb(49, 68, 88);
+    color: white;
+    width: 74px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+
+  .what-is {
+    color: white;
+    width: 300px;
+    padding: 100px 20px 20px 250px;
+    position: absolute;
+  }
+
+  .blocks-top {
+    text-align: center;
+    color: rgb(83, 88, 98);
+  }
+
+  .service-box {
+    width:30%;
+    float:left;
+    text-align:center;
+    margin:20px 20px;
+    position:relative;
+   }
+  
+  .building-blocks {
+    width:1200px;
+    margin:0 auto;
+    padding:15px 0;
+    background-color: white;
+  }
+  
+  .middle-box {
+    margin-left:5px;
+    margin-right:5px;
+  }
+
+  .building-blocks a {
+    color: rgb(208, 74, 73);
+  }
+
+  .service-box p {
+    rgb(208, 74, 73);
+  }
