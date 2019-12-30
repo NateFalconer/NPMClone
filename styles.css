@@ -79,7 +79,6 @@ nav {
     margin: 0 auto;
     color: white;
     background-color: rgb(32, 101, 136);
-    background-image: url(images/city-scape.svg);
     background-size: cover;
   }
 
@@ -91,6 +90,19 @@ nav {
   .header-all {
     background-color: rgb(32, 101, 136);
     color: white;
+  }
+
+  .section0-wrap {
+    background-image: url(images/city-scape.svg);
+    background-size: cover;
+    height: 400px;
+    position: relative;
+  }
+
+  .section0 {
+    width: 900px;
+    height: 350px;
+    margin: 0 auto;
   }
 
   .section1-wrap {
@@ -152,6 +164,13 @@ nav {
     color: white;
     width: 300px;
     padding: 100px 20px 20px 250px;
+    position: absolute;
+  }
+
+  .what-is2 {
+    color: white;
+    width: 300px;
+    padding: 100px 20px 20px 100px;
     position: absolute;
   }
 
